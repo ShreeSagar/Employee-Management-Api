@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Simple-Employee-Management-Api.props" />
+</Project>
